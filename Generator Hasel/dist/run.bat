@@ -1,0 +1,1 @@
+start javaw -jar %JAVA_HOME%Generator_Hasel.jar
